@@ -29,7 +29,7 @@ test('get engineer email', () => {
     const engineerObj = new Engineer('test2', 30, 'test2@testengineer.com', 'testengineer@github.com');
     expect(engineerObj.getEmail()).toEqual(expect.stringContaining(engineer.email.toString()));
 });
-
+    // this gets the engineers github
 test('get engineer github', () => {
     const engineerObj = new Engineer('test2', 30, 'test2@testengineer.com', 'testengineer@github.com');
     expect(engineerObj.getGitHub()).toEqual(expect.stringContaining(engineer.github.toString()));
