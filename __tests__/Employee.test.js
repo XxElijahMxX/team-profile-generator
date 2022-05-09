@@ -1,7 +1,7 @@
 const Employee = require('../lib/employee');
 
 test('creates employee object', () => {
-    const employeeObj ={
+    const employeeObj = {
         name:'test1',
         id:23,
         email: 'test1@testemployee.com',
