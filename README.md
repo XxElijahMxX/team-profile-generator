@@ -36,4 +36,10 @@
 
 
           
-# https://drive.google.com/file/d/1JGrahlyU1RKWTQJmS1-9MZm9KCYE5VCc/view
+# Link to demo of app
+https://drive.google.com/file/d/1JGrahlyU1RKWTQJmS1-9MZm9KCYE5VCc/view
+
+
+
+# Link to working page going to my github
+https://drive.google.com/file/d/1Q1UbZVx7AXNeICrcYdNPBCfnDdeE8fpe/view
