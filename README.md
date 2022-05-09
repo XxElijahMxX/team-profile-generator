@@ -24,7 +24,7 @@
           
           
           ## Link to video demonstration:
-          ### https://drive.google.com/file/d/1JGrahlyU1RKWTQJmS1-9MZm9KCYE5VCc/view
+           https://drive.google.com/file/d/1JGrahlyU1RKWTQJmS1-9MZm9KCYE5VCc/view
 
           ## Contributors:
           ### undefined
